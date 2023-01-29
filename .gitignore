@@ -106,3 +106,6 @@ dist
 # Yarn Integrity file
 .yarn-integrity
 node_modules
+
+# Local Netlify folder
+.netlify
